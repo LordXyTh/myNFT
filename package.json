@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.7"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.4",
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "web3": "^1.6.0"
+  }
+}
